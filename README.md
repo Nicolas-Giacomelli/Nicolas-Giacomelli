@@ -2,10 +2,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==========================================================================================================================================
 
 * 🌍  I'm based in Santa Catarina - Brasil
-* 🖥️  See my portfolio at [MyPortfolio](http://Myportfolio)
 * ✉️  You can contact me at [nicolas.giacomelli@icloud.com](mailto:nicolas.giacomelli@icloud.com)
 * 🧠  I'm learning Machine Learning, Python & AI
-* 🤝  I'm open to collaborating on Machine Learning Projects
+* 🤝  I'm open to collaborating on Machine Learning, Python & AI Projects
 
 ### Skills
 
