@@ -38,9 +38,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
      # show the status of the build. Makes it easier for debugging (if there's any issues).
-      - name: Show build status
-        run: git status
-
+     
       - name: Push new files to output branch 
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
