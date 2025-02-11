@@ -76,9 +76,9 @@
 <div align="left">
 </div>
 
-### GitHub Activity
+###
 
-![Snake animation](https://github.com/nicolas-giacomelli/nicolas-giacomelli/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/nicolas-giacomelli/nicolas-giacomelli/blob/output/github-contribution-grid-snake2.svg)
 
 ###
 
