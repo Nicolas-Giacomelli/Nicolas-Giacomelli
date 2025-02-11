@@ -78,7 +78,7 @@
 
 ###
 
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/nicolas-giacomelli/nicolas-giacomelli/output/github-contribution-grid-snake.svg" />
+![snake gif](https://github.com/Nicolas_Giacomelli/Nicolas-Giacomelli/blob/output/github-snake-dark.svg)
 
 ###
 
