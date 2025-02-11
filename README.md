@@ -78,7 +78,7 @@
 
 ###
 
-![snake gif](https://github.com/Nicolas_Giacomelli/Nicolas-Giacomelli/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Nicolas-Giacomelli/Nicolas-Giacomelli/blob/output/github-snake-dark.svg)
 
 ###
 
