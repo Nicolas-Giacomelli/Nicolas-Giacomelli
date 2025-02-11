@@ -78,13 +78,7 @@
 
 ### GitHub Activity
 
-![Snake animation](https://github.com/ubiratan-motta/ubiratan-motta/blob/output/github-contribution-grid-snake.svg)
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/nicolas-giacomelli/nicolas-giacomelli/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/nicolas-giacomelli/nicolas-giacomelli/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
