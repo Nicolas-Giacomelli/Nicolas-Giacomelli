@@ -83,3 +83,4 @@
 <img src="https://raw.githubusercontent.com/nicolas-giacomelli/nicolas-giacomelli/output/snake.svg" alt="Snake animation" />
 
 ###
+
