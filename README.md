@@ -66,17 +66,14 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/Nicolas-Giacomelli/count.svg" /></p> 
 <br></div>
   
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=708090&height=120&section=footer"/>
-<br>
-
-<div align="left">
-</div>
-
 ###
 
 ![snake gif](https://github.com/Nicolas-Giacomelli/Nicolas-Giacomelli/blob/output/github-snake-dark.svg)
 
 ###
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=708090&height=120&section=footer"/>
+<br>
+
+
 
